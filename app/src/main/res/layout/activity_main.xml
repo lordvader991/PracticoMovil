@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <Button
+            android:id="@+id/ejercicio1"
+            android:layout_width="wrap_content"
+            android:layout_gravity="center"
+            android:layout_height="wrap_content"
+            android:text="ejercicio 1" />
+        <Button
+            android:id="@+id/ejercicio3"
+            android:layout_width="wrap_content"
+            android:layout_gravity="center"
+            android:layout_height="wrap_content"
+            android:text="ejercicio 3" />
+
+        <Button
+            android:id="@+id/ejercicio31"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="ejercicio 3 recibidor" />
+
+        <Button
+            android:id="@+id/ejercicio5"
+            android:layout_width="wrap_content"
+            android:layout_gravity="center"
+            android:layout_height="wrap_content"
+            android:text="ejercicio 5" />
+
+        <Button
+            android:id="@+id/ejercicio7"
+            android:layout_width="wrap_content"
+            android:layout_gravity="center"
+            android:layout_height="wrap_content"
+            android:text="ejercicio 7" />
+        <Button
+            android:id="@+id/ejercicio9"
+            android:layout_width="wrap_content"
+            android:layout_gravity="center"
+            android:layout_height="wrap_content"
+            android:text="ejercicio 9" />
+        <Button
+            android:id="@+id/ejercicio11"
+            android:layout_width="wrap_content"
+            android:layout_gravity="center"
+            android:layout_height="wrap_content"
+            android:text="ejercicio 11" />
+
+        <Button
+            android:id="@+id/ejercicio13"
+            android:layout_width="wrap_content"
+            android:layout_gravity="center"
+            android:layout_height="wrap_content"
+            android:text="ejercicio 13" />
+
+        <Button
+            android:id="@+id/ejercicio15"
+            android:layout_width="wrap_content"
+            android:layout_gravity="center"
+            android:layout_height="wrap_content"
+            android:text="ejercicio 15" />
+
+        <Button
+            android:id="@+id/ejercicio17"
+            android:layout_width="wrap_content"
+            android:layout_gravity="center"
+            android:layout_height="wrap_content"
+            android:text="ejercicio 17" />
+        <Button
+            android:id="@+id/ejercicio19"
+            android:layout_width="wrap_content"
+            android:layout_gravity="center"
+            android:layout_height="wrap_content"
+            android:text="ejercicio 19" />
+        <Button
+            android:id="@+id/ejercicio21"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="ejercicio 21" />
+        <Button
+            android:id="@+id/ejercicio23"
+            android:layout_width="wrap_content"
+            android:layout_gravity="center"
+            android:layout_height="wrap_content"
+            android:text="ejercicio 23" />
+        <Button
+            android:id="@+id/ejercicio25"
+            android:layout_width="wrap_content"
+            android:layout_gravity="center"
+            android:layout_height="wrap_content"
+            android:text="ejercicio 25" />
+    </LinearLayout>
+</ScrollView>
